@@ -45,7 +45,3 @@ This project processes tweets to analyze their sentiment (positive, negative, or
 - Integrate advanced NLP models (e.g., BERT).
 - Implement real-time sentiment tracking.
 - Deploy a web application for public interaction.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
